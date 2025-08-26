@@ -30,8 +30,8 @@ The pipeline includes data preprocessing, model training, evaluation, and featur
 
 Clone this repo:
 
-git clone https://github.com/yourusername/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/AVANTHIREDDY1214/CODSOFT.3.git
+cd codsoft.3
 
 
 Install dependencies:
